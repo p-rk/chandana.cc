@@ -308,7 +308,8 @@ const GlobalStyle = createGlobalStyle`
 }
 @media(max-width: 1040px){
 	.cons_w_wrapper .fn_cs_hero_header_exclusive[data-height="vh"]{height: auto !important;}
-	.cons_w_wrapper .fn_cs_hero_header_exclusive .content_holder{padding-top: 150px !important;padding-bottom: 150px !important;}
+	.cons_w_wrapper .fn_cs_hero_header_exclusive .content_holder{
+  }
 }
 
 
@@ -1994,9 +1995,9 @@ svg.fn_elegant_shape.other_svg path{
 	left: 0;
 }
 .cons_w_wrapper .fn_cs_hero_header_exclusive.fn_elegant .content_holder .t_image{
-	width: 320px;
-	min-width: 320px;
-	height: 320px;
+	width: 300px;
+	min-width: 300px;
+	height: 300px;
 	margin: 0;
 	left: 0;
 	position: relative;

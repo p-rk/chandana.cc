@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
-  primaryColor: '#3498db', // Required
+  title: "Personal Blog", // Required
+  author: "Chandana Chowdary", // Required
+  description: "UPSC Aspirant",
+  primaryColor: "#3498db", // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    email: "mailto:chandanachoudaryjampani@gmail.com",
+    website: "https://chandana.cc",
+    instagram: "https://www.instagram.com/chandana_chowdary_jampani/",
+    twitter: "https://twitter.com/jampanichandana"
   },
-  pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  pathPrefix: "/",
+  siteUrl: "https://www.chandana.cc"
 };

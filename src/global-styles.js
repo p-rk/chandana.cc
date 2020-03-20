@@ -3,9 +3,9 @@ import styledNormalize from "styled-normalize";
 
 const GlobalStyle = createGlobalStyle`
   ${styledNormalize}
-  
-  @import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
-  
+
+  @import url("https://fonts.googleapis.com/css?family=Kaushan+Script:400,700");
+
   *,
   *:before,
   *:after {
@@ -21,7 +21,7 @@ const GlobalStyle = createGlobalStyle`
 
   body {
     background: #f9fafc;
-    font-family: 'Open Sans', sans-serif; 
+    font-family: "Kaushan Script", Sans-serif;
     line-height: 1.5;
     padding: 50px 0;
     -webkit-font-smoothing: antialiased;

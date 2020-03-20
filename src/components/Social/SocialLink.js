@@ -1,4 +1,4 @@
-import styled from 'styled-components';
+import styled from "styled-components";
 
 const SocialLink = styled.a`
   border: 1px solid #bfc8d2;
@@ -13,7 +13,7 @@ const SocialLink = styled.a`
     display: inline-block;
     height: 20px;
     margin-right: 5px;
-    stroke: #6e849c;
+    stroke: #161617;
     vertical-align: middle;
     width: 20px;
   }
